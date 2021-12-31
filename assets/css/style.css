@@ -88,7 +88,7 @@ main {
 
 .data-banner {
   background: rgb(68, 88, 120);
-  background-image: url("../images/Free-SEO-Analysis-Banner-Background-Image.png"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("../images/Analysis-Banner.png"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
@@ -173,10 +173,10 @@ main {
 }
 
 /* feature first portfolio item */
-.flex-item:first-child {
+/* .flex-item:first-child {
     min-height: 400px;
     flex-basis: 100%;
-}
+} */
 
 .flex-item:hover {
   background-color: rgba(0, 0, 0, 0.3);
@@ -220,8 +220,8 @@ main {
 }
 
 /* portfolio project images */
-.run-buddy {
-  background-image: url("../images/02-run-buddy.jpg");
+.fingers {
+  background-image: url("../images/fingers.JPG");
 }
 
 .loan-app {
@@ -238,6 +238,12 @@ main {
 
 .credit-risk {
   background-image: url("../images/banner.jpg");
+}
+.Kanban {
+  background-image: url("../images/Kanban.JPG");
+}
+.xfer {
+  background-image: url("../images/stylized-image.png");
 }
 
 /* end portfolio project images */
