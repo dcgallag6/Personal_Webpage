@@ -223,6 +223,9 @@ main {
 .fingers {
   background-image: url("../images/fingers.JPG");
 }
+.bike {
+  background-image: url("../images/bike_banner.jpg");
+}
 
 .loan-app {
   background-image: url("../images/loan-apps.jpg");
